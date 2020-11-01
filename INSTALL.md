@@ -3,10 +3,8 @@
 This installation based on [GNS3 Installation](https://docs.gns3.com/docs/getting-started/installation/linux/) for linux.
 
 ## Requirement
-
-* Linux (Ubuntu 18.04, Ubuntu 20.04, Debian 9, Debian 10 or other supported linux)
-* GNS3
-* Docker
+* install linux (e.g. Ubuntu 18.04 or Debian or any platform that supports GNS3 + Docker) or a linux VM You can use native installed ubuntu (or other linux), Virtual Machine platform or use new Microsoft WSL2 to install linux toolbox.
+* GNs3 + Docker
 * Cisco router image
 * Mininet
 
